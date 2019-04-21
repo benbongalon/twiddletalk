@@ -8,9 +8,9 @@ You type messages on the Twiddler one-handed keyboard while the bot responds by 
 - while walking
 - lying in bed in the dark 
 
-This project is developed with Kivy and Plyer. 
+This is an alpha release and the bot is not intelligent: it simply says the word or individual letters you typed depending on the mode you select. It will be enhanced in the next releases.
 
-Here's a video demo:
+This project is developed with Kivy and Plyer. Here's a video demo:
 
 [![Author using Twiddler3 wirelessly connected to Samsung Galaxy S8 via bluetooth](https://img.youtube.com/vi/otnWRTZA5KU/0.jpg)](https://www.youtube.com/watch?v=otnWRTZA5KU "TwiddleTalk demo")
 
@@ -74,5 +74,8 @@ On your phone:
 - press EXIT to quit
 
 
+### License ###
+
+The code is licensed under the [MIT License](LICENSE.md).
 
 
